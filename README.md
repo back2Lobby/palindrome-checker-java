@@ -1,5 +1,5 @@
 # palindrome-checker-java
-Client-Server Application used to check whether a string is a palindrome or not.
+Client-Server Application used to check whether a string is a palindrome or not using sockets.
 
 
 https://user-images.githubusercontent.com/29447722/141930903-c28db73a-705a-4f0b-a62f-53089ad3c9a0.mp4
